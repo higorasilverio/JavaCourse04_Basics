@@ -1,0 +1,1 @@
+Program that calculates the income of a employee, given its data.

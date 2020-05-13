@@ -9,8 +9,7 @@ public class Main {
 		
 		Locale.setDefault (Locale.US);
 		Scanner scanner = new Scanner(System.in);
-		
-		System.out.println("*** Program that calculates the income of a employee, given its data ***");
+				
 		System.out.print("Enter the employee number: ");
 		int employee = scanner.nextInt();
 		System.out.print("Enter the total of worked hours: ");
